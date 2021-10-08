@@ -1,0 +1,10 @@
+C:\Users\Cem\source\repos\Charts\Charts\bin\Debug\Charts.exe.config
+C:\Users\Cem\source\repos\Charts\Charts\bin\Debug\Charts.exe
+C:\Users\Cem\source\repos\Charts\Charts\bin\Debug\Charts.pdb
+C:\Users\Cem\source\repos\Charts\Charts\obj\Debug\Charts.csprojAssemblyReference.cache
+C:\Users\Cem\source\repos\Charts\Charts\obj\Debug\Charts.Form1.resources
+C:\Users\Cem\source\repos\Charts\Charts\obj\Debug\Charts.Properties.Resources.resources
+C:\Users\Cem\source\repos\Charts\Charts\obj\Debug\Charts.csproj.GenerateResource.cache
+C:\Users\Cem\source\repos\Charts\Charts\obj\Debug\Charts.csproj.CoreCompileInputs.cache
+C:\Users\Cem\source\repos\Charts\Charts\obj\Debug\Charts.exe
+C:\Users\Cem\source\repos\Charts\Charts\obj\Debug\Charts.pdb
